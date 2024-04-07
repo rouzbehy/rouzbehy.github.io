@@ -44,6 +44,12 @@ redirect_from:
 - Machine Learning: Tensorflow (keras), Scikit-Learn, XGBoost
 - Platforms: Bash, ZShell, Jupyter Notebooks, Slurm
 
+# Certificates
+
+- Erdos Institute Data Science Bootcamp ([2022](https://www.erdosinstitute.org/certificates/fall-2022/data-science-boot-camp/rouzbeh-modarresi-yazdi), [2023](https://www.erdosinstitute.org/certificates/fall-2023/data-science-boot-camp/rouzbeh-modarresi-yazdi))
+- [Tensorflow Developer](https://www.coursera.org/account/accomplishments/professional-cert/GAG6M9K8HWNJ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof)
+- [Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/XCBCFYSM85RS?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n)
+
 # Publications
 
   <ul>{% for post in site.publications reversed %}
