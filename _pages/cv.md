@@ -9,40 +9,43 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+# Education
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+- Ph.D. in Theoretical High Energy Nuclear Physics, McGill University, 2023
+- M.Sc. in Theoretical Particle Physics, Carleton University, 2017
+- B.Sc. in Theoretical Physics with Minor in Mathematics, Carleton University, 2015
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+# Work experience
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- Fall 2017 - Fall 2024: Graduate Research Assistant
 
-Publications
-======
+  - McGill University
+  - Supervisor: Prof. Charles Gale
+
+- Fall 2015 - Summer 2017: Research Assistant
+
+  - Carleton University
+  - Supervisor: Prof. Stephen Godfrey
+
+- Summer 2013, 2014: Summer Research Assistant
+
+  - Carleton University
+  - NSERC Undergraduate Summer Research Assistant (2014)
+  - Supervisor: Prof. Stephen Godfrey
+
+- Summer 2011, 2012, 2013: Summer Research Assistant
+  - Carleton University
+  - Supervisor: Prof. Kevin Graham
+
+# Skills
+
+- Programming Languages: C/C++, Python, SQL
+- Python Libraries: numpy, scipy, pandas, matplotlib, vegas
+- Machine Learning: Tensorflow (keras), Scikit-Learn, XGBoost
+- Platforms: Bash, ZShell, Jupyter Notebooks, Slurm
+
+# Publications
+
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
@@ -61,4 +64,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Treasurer of the Carleton Undergraduate Physics Society (2013-2014)
+* President of the Carleton Undergraduate Physics Society (2014-2015)
