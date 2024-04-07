@@ -1,10 +1,10 @@
 ---
 title: "Teaching Assistant"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate/Graduate courses"
 permalink: /teaching/2014
 venue: "Carleton University, Department of Physics"
-date: 2013-05-01
+date: 2014-05-01
 location: "Ottawa, ON, Canada"
 ---
 
