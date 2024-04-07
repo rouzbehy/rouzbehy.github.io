@@ -9,7 +9,7 @@ redirect_from:
 
 ## About Me
 
-I am a recent Ph.D. graduate from McGill University in theoretical high-energy nuclear physics. I am interested in particle & nuclear physics, computer science, mathematics and, more recently, data science and machine learning. During my spare time, I like to fiddle with new programming languages or machine learning projects, check out some Leet Code problems, read fiction and watch movies. Recently, I have become rather interested in learning more about classic men's tailoring and fashion.
+I am a recent Ph.D. graduate from McGill University in theoretical high-energy nuclear physics. I am interested in particle & nuclear physics, computer science, mathematics and, more recently, data science and machine learning. During my spare time, I like to fiddle with new programming languages or machine learning projects, check out some Leet Code problems, read fiction and watch movies.
 
 ## Research
 
