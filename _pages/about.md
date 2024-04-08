@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Journey of a thousand miles begins with a single step."
+title: "Rouzbeh Modarresi-Yazdi, Ph.D."
 author_profile: true
 redirect_from:
   - /about/
