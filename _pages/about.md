@@ -22,7 +22,3 @@ My Master's project was concerned with _exotic hadrons_. In the early 2000s, the
 [^1]: _Parton_ is a generic term for a quark, anti-quark or gluon. It referes to particles that are _part_ of a composite particle.
 [^2]: Hadrons are composite particles, made from a combination of quarks, anti-quarks and gluons. Typically, a hadron with a quark and anti-quark pair is called a _meson_ while a particle with three quarks (or three anti-quarks) is called a _brayon_. An example of the latter is the proton.
 [^3]: _Jet_ refers to an individual hard parton as well as a collimated spray of hadrons travelling in the same direction.
-
-## For info about the page template
-
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
